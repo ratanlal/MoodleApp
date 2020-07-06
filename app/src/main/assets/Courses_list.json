@@ -1,0 +1,35 @@
+{
+  "Courses":
+  [
+    {
+      "Course": "COL331",
+      "current_sem": "2nd",
+      "current_year": "2019-20"
+
+    },
+    {
+      "Course": "COL380",
+      "current_sem": "2nd",
+      "current_year": "2019-20"
+
+    },
+    {
+      "Course": "COL740",
+      "current_sem": "2nd",
+      "current_year": "2019-20"
+
+    },
+    {
+      "Course": "MTL106",
+      "current_sem": "2nd",
+      "current_year": "2019-20"
+
+    },
+    {
+      "Course": "SIL861",
+      "current_sem": "2nd",
+      "current_year": "2019-20"
+
+    }
+  ]
+}
